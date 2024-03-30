@@ -1,2 +1,1 @@
 text file 5
-Text file 6 deleted and marged to Text File 5
